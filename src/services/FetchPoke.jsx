@@ -4,10 +4,6 @@ import PageNav from "../components/PageNav"
 
 
 const FetchPoke = () => {
-
-
-
-
     return (
         <div>
             <PageNav />
